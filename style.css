@@ -1,0 +1,27 @@
+
+
+.nav{
+
+    /* border: 1px solid red; */
+    text-align: center;
+     
+}
+
+.gifs{
+
+    /* border: 1px solid green; */
+    width: 80%;
+    margin: auto;
+   
+    
+   
+}
+.gifs>div{
+    width: 70%;
+     height: auto;
+     margin: auto;
+     margin-top: 10px;
+     margin-bottom: 10px;
+
+}
+
